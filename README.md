@@ -3,7 +3,7 @@
 
 This tool allows you to train a fiwGAN or a ciwGAN models using our GPUs in high performance computing space. The paper describing the models is here:
 
-- Beguš, Gašper. 2021. CiwGAN and 􏰎wGAN: Encoding information in acoustic data to model lexical learning with Generative Adversarial Networks. *Neural Networks* 139: 305–325. doi: https://doi.org/10.1016/j.neunet.2021.03.017
+- Beguš, Gašper. 2021. CiwGAN and fiwGAN: Encoding information in acoustic data to model lexical learning with Generative Adversarial Networks. *Neural Networks* 139: 305–325. doi: https://doi.org/10.1016/j.neunet.2021.03.017
 
 
 ## Create a Globus account  
