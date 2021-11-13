@@ -35,8 +35,16 @@ All files for training need to be in .wav format with 16-bit quantization and 16
  
 1. Once you get permission, click on the link you received to your email. Alternatively, you can log into your Globus account and find the Deep Phonology Tool.
 <img src="globus1.png" width="500">
+
+Search for Deep Phonology Tool.
+
+<img src="globus2.png" width="500">
+
 2. Create a new folder in your directory and give it a title `/traindata/`. Upload your training files to `/traindata/`. 
-3. Fill out this form to start training.
+
+<img src="globus3.png" width="500">
+
+4. Fill out this form to start training.
 
 ## Get training checkpointss
 
