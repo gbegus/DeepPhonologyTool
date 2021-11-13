@@ -5,6 +5,12 @@ This tool allows you to train a fiwGAN or a ciwGAN models using our GPUs in high
 
 - Beguš, Gašper. 2021. CiwGAN and fiwGAN: Encoding information in acoustic data to model lexical learning with Generative Adversarial Networks. *Neural Networks* 139: 305–325. doi: https://doi.org/10.1016/j.neunet.2021.03.017
 
+Papers that use the models:
+
+- Beguš, Gašper. 2021. Identity-Based Patterns in Deep Convolutional Networks: Generative Adversarial Phonology and Reduplication. *Transactions of the Association for Computational Linguistics* 9: 1196–1212. doi: https://doi.org/10.1162/tacl_a_00421
+- Beguš, Gašper and Alan Zhou. 2021. Interpreting intermediate convolutional layers in unsupervised acoustic word classification. [arXiv](https://arxiv.org/abs/2110.02375) 
+- Beguš, Gašper and Alan Zhou. 2021. Interpreting intermediate convolutional layers of CNNs trained on raw speech. [arXiv](https://arxiv.org/abs/2104.09489) 
+
 
 ## Create a Globus account  
 
