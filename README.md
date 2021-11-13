@@ -5,6 +5,10 @@ This tool allows you to train a fiwGAN or a ciwGAN models using our GPUs in high
 
 - Beguš, Gašper. 2021. CiwGAN and fiwGAN: Encoding information in acoustic data to model lexical learning with Generative Adversarial Networks. *Neural Networks* 139: 305–325. doi: https://doi.org/10.1016/j.neunet.2021.03.017
 
+The main elements of the architecture (fiwGAN):
+
+<img src="fiwganGit.pdf" width="700">
+
 Papers that use the models:
 
 - Beguš, Gašper. 2021. Identity-Based Patterns in Deep Convolutional Networks: Generative Adversarial Phonology and Reduplication. *Transactions of the Association for Computational Linguistics* 9: 1196–1212. doi: https://doi.org/10.1162/tacl_a_00421
