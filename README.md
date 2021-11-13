@@ -1,7 +1,10 @@
 
 # Deep Phonology Tool
 
-This tool allows you to train a fiwGAN or a ciwGAN 
+This tool allows you to train a fiwGAN or a ciwGAN models using our GPUs in high performance computing space. The paper describing the models is here:
+
+- Beguš, Gašper. 2021. CiwGAN and 􏰎wGAN: Encoding information in acoustic data to model lexical learning with Generative Adversarial Networks. *Neural Networks* 139: 305–325. doi: https://doi.org/10.1016/j.neunet.2021.03.017
+
 
 ## Create a Globus account  
 
@@ -46,6 +49,6 @@ Search for Deep Phonology Tool.
 
 4. Fill out this form to start training.
 
-## Get training checkpointss
+## Get training checkpoints
 
 You should see trained checkpoints in your directory soon after you submit the second Google form. The training will go on for 24-72 hours (on a K80, 1080Ti, or 2080Ti). If you need more time, you can resubmit the request. 
