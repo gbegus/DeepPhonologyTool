@@ -52,3 +52,7 @@ Search for Deep Phonology Tool.
 ## Get training checkpoints
 
 You should see trained checkpoints in your directory soon after you submit the second Google form. The training will go on for 24-72 hours (on a K80, 1080Ti, or 2080Ti). If you need more time, you can resubmit the request. 
+
+## Suggestions
+
+We're happy to hear suggestions for improving the tool. If you have a specific request for a particular architecture modification, email begus@berkeley.edu.
