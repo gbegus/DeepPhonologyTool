@@ -15,6 +15,7 @@ Papers that use the models:
 - Beguš, Gašper and Alan Zhou. 2021. Interpreting intermediate convolutional layers in unsupervised acoustic word classification. [arXiv](https://arxiv.org/abs/2110.02375) 
 - Beguš, Gašper and Alan Zhou. 2021. Interpreting intermediate convolutional layers of CNNs trained on raw speech. [arXiv](https://arxiv.org/abs/2104.09489) 
 
+The code is here: https://github.com/gbegus/fiwGAN-ciwGAN
 
 # Train your own model
 
