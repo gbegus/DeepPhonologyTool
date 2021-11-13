@@ -12,6 +12,8 @@ Papers that use the models:
 - Beguš, Gašper and Alan Zhou. 2021. Interpreting intermediate convolutional layers of CNNs trained on raw speech. [arXiv](https://arxiv.org/abs/2104.09489) 
 
 
+# Train your own model
+
 ## Create a Globus account  
 
 [Globus](https://www.globus.org/) is a UChicago non-profit service for transferring files. You will use Globus to upload files for training.
