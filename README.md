@@ -7,7 +7,7 @@ This tool allows you to train a fiwGAN or a ciwGAN models using our GPUs in high
 
 The main elements of the architecture (fiwGAN):
 
-<img src="fiwganGit.pdf" width="700">
+<img src="fiwganGit.jpg" width="700">
 
 Papers that use the models:
 
