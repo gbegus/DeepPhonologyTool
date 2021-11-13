@@ -35,7 +35,7 @@ To enable file transfer from your local computer, follow these steps:
 
 ## Fill out a Google form
 
-Fill out [this Google form](https://forms.gle/QAXmbq9UBsGbR1Uu9) where you set the hyperparameters of the model you wish to train and briefly describe your project. 
+Fill out [this Google form](https://forms.gle/QAXmbq9UBsGbR1Uu9) where you set the hyperparameters of the model you wish to train, briefly describe your project, and give us you Globus ID. 
  
 ## Wait for review
 
@@ -62,7 +62,7 @@ Search for Deep Phonology Tool.
 
 <img src="globus4.png" width="500">
 
-4. Fill out this form to start training.
+4. Fill out [this form](https://forms.gle/SDdqZhVQtguzrEmv5) to start training.
 
 ## Get training checkpoints
 
