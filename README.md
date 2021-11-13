@@ -44,7 +44,7 @@ Once you submit the Google form, we will review your request and set up your per
 
 ## Prepare training data
 
-All files for training need to be in .wav format with 16-bit quantization and 16kHz sampling rate. The model won't run unless the files are in the correct format. The files also generally need to be less than 1 s long.
+All files for training need to be in `.wav` format with 16-bit quantization and 16kHz sampling rate. The model won't run unless the files are in the correct format. The files also generally need to be less than 1 s long.
 
 
 ## Upload training data 
