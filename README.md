@@ -23,10 +23,10 @@ The code is here: https://github.com/gbegus/fiwGAN-ciwGAN
 
 [Globus](https://www.globus.org/) is a UChicago non-profit service for transferring files. You will use Globus to upload files for training.
 
-To create a Globus account, follow these steps: 
+To create a Globus account, follow these steps: [instructions](https://docs.globus.org/how-to/get-started/).
 
 
-To enable file transfer from your local computer, follow these steps: [instructions](https://docs.globus.org/how-to/get-started/).
+To enable file transfer from your local computer, follow these steps: 
 
 - [Mac](https://docs.globus.org/how-to/globus-connect-personal-mac/)
 - [Linux](https://docs.globus.org/how-to/globus-connect-personal-linux/)
@@ -35,7 +35,7 @@ To enable file transfer from your local computer, follow these steps: [instructi
 
 ## Fill out a Google form
 
- Fill out [this Google form](https://forms.gle/QAXmbq9UBsGbR1Uu9) where you set the hyperparameters of the model you wish to train and briefly describe your project. 
+Fill out [this Google form](https://forms.gle/QAXmbq9UBsGbR1Uu9) where you set the hyperparameters of the model you wish to train and briefly describe your project. 
  
 ## Wait for review
 
@@ -56,16 +56,18 @@ Search for Deep Phonology Tool.
 
 <img src="globus2.png" width="500">
 
-2. Create a new folder in your directory and give it a title `/traindata/`. Upload your training files to `/traindata/`. 
+2. Create a new folder in your directory and give it a title `/traindata/`. Upload your training files to `/traindata/`. The username `begusgasper` will be replaced with your Globus username.
 
 <img src="globus3.png" width="500">
+
+<img src="globus4.png" width="500">
 
 4. Fill out this form to start training.
 
 ## Get training checkpoints
 
-You should see trained checkpoints in your directory soon after you submit the second Google form. The training will go on for 24-72 hours (on a K80, 1080Ti, or 2080Ti). If you need more time, you can resubmit the request. 
+You should see trained checkpoints in your directory soon after you submit the second Google form. The training will go on for 24-72 hours (on Nvidia K80, 1080Ti, or 2080Ti). If you need more time, you can resubmit the request. 
 
 ## Suggestions
 
-We're happy to hear suggestions for improving the tool. If you have a specific request for a particular architecture modification, email begus@berkeley.edu.
+We're in the process of adding more training features and we're happy to hear suggestions for improving the tool. If you have a specific request for a particular architecture modification, email begus@berkeley.edu.
