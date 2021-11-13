@@ -1,7 +1,6 @@
 
----
-title:  'Deep Phonology Tool'
----
+% Deep Phonology Tool
+
 
 
 # Create a Globus account  
