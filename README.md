@@ -20,13 +20,12 @@ To enable file transfer from your local computer, follow these steps: [instructi
 
 # Fill out a Google form
 
- Fill out this Google form where you set the hyperparameters of the model you wish to train, describe your data, and 
+ Fill out [this Google form](https://forms.gle/QAXmbq9UBsGbR1Uu9) where you set the hyperparameters of the model you wish to train and briefly describe your project. 
  
 # Wait for review
 
 Once you submit the Google form, we will review your request and set up your permissions in our high performance computing space. This might take a few days. We might not be able to approve all requests. 
  
-
 
 # Prepare training data
 
@@ -35,5 +34,10 @@ All files for training need to be in .wav format with 16-bit quantization and 16
 
 # Upload training data 
  
-Once you 
-Using Globus, find . Upload your training data 
+1. Once you get permission, click on the link you received to your email. Alternatively, you can log into your Globus account and find the Deep Phonology Tool. 
+2. Create a new folder in your directory and give it a title `/traindata/`. Upload your training files to `/traindata/`. 
+3. Fill out this form to start training.
+
+# Get training checkpointss
+
+You should see trained checkpoints in your directory soon afterthat. The training will go on for 24-72 hours (on a K80, 1080Ti, or 2080Ti). If you need more time.
