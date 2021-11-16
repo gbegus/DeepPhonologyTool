@@ -35,7 +35,7 @@ To enable file transfer from your local computer, follow these steps:
 
 ## Fill out a Google form
 
-Fill out [this Google form](https://forms.gle/QAXmbq9UBsGbR1Uu9) where you set the hyperparameters of the model you wish to train, briefly describe your project, and give us you Globus ID. 
+Fill out [this Google form](https://forms.gle/QAXmbq9UBsGbR1Uu9) where you set the hyperparameters of the model you wish to train, briefly describe your project, and give us your Globus ID. 
  
 ## Wait for review
 
