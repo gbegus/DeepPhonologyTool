@@ -18,7 +18,7 @@ Papers that use the models:
 
 The code is here: https://github.com/gbegus/fiwGAN-ciwGAN
 
-More info on this [YouTube channel](https://www.youtube.com/channel/UCH16qHjOg8rbcAc_mtZo7Vw).
+This [YouTube channel](https://www.youtube.com/channel/UCH16qHjOg8rbcAc_mtZo7Vw) contains several talks and demos that you might find useful.
 
 # Train your own model
 
