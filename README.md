@@ -12,11 +12,13 @@ The main elements of the architecture (fiwGAN):
 Papers that use the models:
 
 - Beguš, Gašper. 2021. Identity-Based Patterns in Deep Convolutional Networks: Generative Adversarial Phonology and Reduplication. *Transactions of the Association for Computational Linguistics* 9: 1196–1212. [doi](https://doi.org/10.1162/tacl_a_00421)
-- Beguš, Gašper and Alan Zhou. 2022. Interpreting intermediate convolutional layers in unsupervised acoustic word classi􏰁cation. *ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech􏰋 and Signal Processing*: 8207-8211. [doi](https://doi.org/10.1109/ICASSP43922.2022.9746849)
+- Beguš, Gašper and Alan Zhou. 2022. Interpreting intermediate convolutional layers in unsupervised acoustic word classification. *ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing*: 8207-8211. [doi](https://doi.org/10.1109/ICASSP43922.2022.9746849)
 - Beguš, Gašper and Alan Zhou. 2022. Interpreting intermediate convolutional layers of generative CNNs trained on waveforms. *IEEE/ACM Transactions on Audio, Speech, and Language Processing* [doi](https://doi.org/10.1109/TASLP.2022.3209938)
-- Beguš, Gašper and Alan Zhou. 2022. Modeling speech recognition and synthesis simultaneously: Encoding and decoding lexical and sublexical semantic information into speech with no direct access to speech data. *Proc. Interspeech 2022*. [doi](http://doi.org/10.21437/Interspeech.2022-11219)
+- Beguš, Gašper and Alan Zhou. 2022. Modeling speech recognition and synthesis simultaneously: Encoding and decoding lexical and sublexical semantic information into speech with no direct access to speech data. *Proc. Interspeech 2022*: 5298–5302. [doi](http://doi.org/10.21437/Interspeech.2022-11219)
 
 The code is here: https://github.com/gbegus/fiwGAN-ciwGAN
+
+More info on this [YouTube channel](https://www.youtube.com/channel/UCH16qHjOg8rbcAc_mtZo7Vw).
 
 # Train your own model
 
